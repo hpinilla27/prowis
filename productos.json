@@ -1,6 +1,6 @@
 {
 id: "1",
-image: "fotos/camiseta.png",
+image: "https://source.unsplash.com/category/nature/",
 title: "edicion camiseta",
 price: 20000,
 description: "bla bla bla bla bla"
